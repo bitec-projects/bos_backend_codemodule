@@ -1,4 +1,4 @@
-var Resource = require("bos_backend/lib/resource"),
+var Resource = require("@eduardo.bitec/bos_backend/lib/resource"),
     util = require("util"),
     fs = require("fs"),
     path = require("path");

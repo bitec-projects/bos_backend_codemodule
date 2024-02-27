@@ -1,7 +1,16 @@
 {
     "name": "@eduardo.bitec/bos_deployd_codemodule",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Bos Backend Code Module é um módulo para criar códigos reutilizáveis compatível com Bos Backend - Bier on Stack",
+    "author": {
+        "name": "Carlos Eduardo Bier"
+    },
+    "maintainers": [
+        {
+            "name": "eduardo.bier",
+            "email": "eduardo.bier@bitec.dev.br"
+        }
+    ],
     "main": "index.js",
     "repository": {
         "type": "git",
