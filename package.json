@@ -1,0 +1,10 @@
+{
+    "name": "bos_deployd_codemodule",
+    "version": "0.0.1",
+    "description": "Bos Backend Code Module é um módulo para criar códigos reutilizáveis compatível com Bos Backend - Bier on Stack",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bitec-projects/bos_backend_codemodule.git"
+    }
+}
